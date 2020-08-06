@@ -1,4 +1,4 @@
-# (NLW): Ecoleta "Frontend"
+# (NLW): Ecoleta "Mobile"
 
 ## Available Scripts
 
